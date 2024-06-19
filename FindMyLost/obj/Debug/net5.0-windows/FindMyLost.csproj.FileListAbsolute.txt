@@ -1,0 +1,88 @@
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\FindMyLost.exe
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\FindMyLost.dll.config
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\FindMyLost.deps.json
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\FindMyLost.runtimeconfig.json
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\FindMyLost.runtimeconfig.dev.json
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\FindMyLost.dll
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\FindMyLost.pdb
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.csproj.AssemblyReference.cache
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.ChangePassword.resources
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.Login.resources
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.Properties.Resources.resources
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.RegisterEmployees.resources
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.csproj.GenerateResource.cache
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.AssemblyInfoInputs.cache
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.AssemblyInfo.cs
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.csproj.CoreCompileInputs.cache
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.csproj.CopyComplete
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.dll
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\refint\FindMyLost.dll
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.pdb
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.genruntimeconfig.cache
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\ref\FindMyLost.dll
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.ListItem.resources
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.EditProfile.resources
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.ClaimItem.resources
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\Dapper.dll
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\MaterialSkin.dll
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.EmployeeProfile.resources
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.ItemList.resources
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.ItemProfile.resources
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.EmployeeList.resources
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.ClaimList.resources
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.Dashboard.resources
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.Claim.resources
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.EditLostItem.resources
+D:\APIIT\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.FindMyLost2.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\FindMyLost.exe
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\FindMyLost.dll.config
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\FindMyLost.deps.json
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\FindMyLost.runtimeconfig.json
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\FindMyLost.runtimeconfig.dev.json
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\FindMyLost.dll
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\FindMyLost.pdb
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\Dapper.dll
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\FontAwesome.Sharp.dll
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\MaterialSkin.dll
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.csproj.AssemblyReference.cache
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.ChangePassword.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.ClaimItem.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.ClaimList.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.Claim.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.Dashboard.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.EditLostItem.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.EditProfile.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.EmployeeList.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.EmployeeProfile.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.FindMyLost2.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.ItemList.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.ItemProfile.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.ListItem.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.Login.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.Properties.Resources.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.RegisterEmployees.resources
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.csproj.GenerateResource.cache
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.AssemblyInfoInputs.cache
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.AssemblyInfo.cs
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.csproj.CoreCompileInputs.cache
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.csproj.CopyComplete
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.dll
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\refint\FindMyLost.dll
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.pdb
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\FindMyLost.genruntimeconfig.cache
+D:\APIIT\Year 1\Project\FindMyLost\FindMyLost\FindMyLost\obj\Debug\net5.0-windows\ref\FindMyLost.dll

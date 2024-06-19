@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClaimItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClaimList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClaimProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditLostItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FindMyLost2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ItemList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ItemProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
