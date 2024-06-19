@@ -10,7 +10,7 @@
 #### 1. Overview
 Welcome to FindMyLost💼! This C# based desktop application is designed to list and claim objects lost at specific locations. This tool is perfect for airports, railway station, and even hotels for a computerized Lost and Found service. 
 
-> This Project is submitted as a final project for __Project Module__
+> This Project is submitted as a final project for __Project Module__.
 
 #### 2. Setup Requirements
 - Visual Studio 2022
